@@ -1,0 +1,8 @@
+- Compile the wireframe into a more detailed UI/UX design.
+- Compile existing research and documentations into a more structured format.
+- Create a new research methodology.
+- Create a new trading methodology.
+- Create a new operations methodology.
+- Create a new risk management methodology.
+- Create a new compliance methodology.
+- Create a new reporting methodology.
